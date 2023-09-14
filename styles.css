@@ -29,7 +29,7 @@ img{
 div.photo {
     width: 600px;
     margin: auto;
-    background: white;   
+    background: white;  
 }
 div.photo p{
     padding: 10px;
@@ -38,7 +38,7 @@ div.photo p{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 10px;
+    padding-inline: 5px;
     font-size: 20px;
 }
 
