@@ -1,5 +1,6 @@
 body{
-    background: lightgray;
+    background-image: linear-gradient(to right, purple, violet, pink);
+    /* background: lightblue; */
     margin: 0;
 }
 
