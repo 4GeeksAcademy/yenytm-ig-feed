@@ -1,6 +1,5 @@
 body{
     background-image: linear-gradient(to right, purple, violet, pink);
-    /* background: lightblue; */
     margin: 0;
 }
 
@@ -9,6 +8,7 @@ header h1 {
     margin: 10px;
     text-align: center;
     padding: 10px;
+    color: purple;
 
 }
 div.post{
@@ -57,3 +57,7 @@ div.photo p{
     padding-right: 20px;
 }
 
+.liked{
+    padding-left: .5rem;
+    padding-top: .2rem;
+}
